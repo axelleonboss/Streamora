@@ -1,0 +1,4 @@
+# Backend ⚙️
+
+This folder will contain the backend project for Streamora.  
+Options being considered: **Node.js** or **Supabase** for APIs, authentication, and database.
